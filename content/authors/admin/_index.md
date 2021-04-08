@@ -70,9 +70,9 @@ email: "naohaya@cc.kyoto-su.ac.jp"
 highlight_name: false
 ---
 
-Naohiro Hayashibara is an associate professor in the faculty of Information Science and Engineering at Kyoto Sangyo University. His research interests include distributed systems, dependable systems, meta-heuristic algorithms. 
+Naohiro Hayashibara is an Associate Professor in the Faculty of Information Science and Engineering at Kyoto Sangyo University. His research interests include distributed systems, dependable systems, meta-heuristic algorithms. 
 
-He received his PhD in Information Science from Japan Advanced Institute of Science and Technology (JAIST) in 2004. He worked at Tokyo Denki University as a research associate since 2005. He joined Kyoto Sangyo University as an assistant professor in 2008.
+He received his PhD in Information Science from Japan Advanced Institute of Science and Technology (JAIST) in 2004. After working at JAIST as a Post-doctral Fellow, he worked at Tokyo Denki University as a Research Associate from 2005 to 2008. He joined Kyoto Sangyo University as an Assistant Professor in 2008.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-hayashibara.pdf" "newtab" >}}resumé{{< /staticref >}}.
