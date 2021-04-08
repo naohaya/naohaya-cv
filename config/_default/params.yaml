@@ -15,20 +15,20 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+aescription: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: naohaya@cc.kyoto-su.ac.jp
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Kamigamo-motoyama, Kita-ku
+  city: Kyoto
+  region: Kyoto
+  postcode: '603-8555'
+  country: Japan 
+  country_code: JP
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -108,7 +108,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: false 
   shape: circle
 publications:
   date_format: January 2006
