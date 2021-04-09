@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Kenya Shinki
 - Kouichirou Sugihara
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

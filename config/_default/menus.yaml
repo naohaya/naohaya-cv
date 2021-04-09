@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Resume
+  - name: CV
     url: 'media/cv-hayashibara.pdf'
     weight: 20
   - name: Experience

@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: naohaya@cc.kyoto-su.ac.jp
-phone: 888 888 88 88
+phone: '+81-75-705-1526'
 address:
   street: Kamigamo-motoyama, Kita-ku
   city: Kyoto
@@ -60,7 +60,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true

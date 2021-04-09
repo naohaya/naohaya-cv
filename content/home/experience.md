@@ -28,11 +28,11 @@ experience:
     location: Kyoto, Japan
     date_start: '2013-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+#    description: |2-
+#        Responsibilities include:
         
-        * Research
-        * Teaching
+#        * Research
+#        * Teaching
         
   - title: Assistant Professor
     company: Kyoto Sangyo University
@@ -40,7 +40,7 @@ experience:
     location: Kyoto, Japan
     date_start: '2008-04-01'
     date_end: '2013-03-31'
-    description: Taught discrete mathematics, distributed systems.
+#    description: Taught discrete mathematics, distributed systems.
 
   - title: Research Associate
     company: Tokyo Denki University
@@ -48,7 +48,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2005-04-01'
     date_end: '2008-03-31'
-    description: Taught programming in C, databases.
+#    description: Taught programming in C, databases.
 
   - title: Post-doctoral Fellow
     company: Japan Advanced Institute of Science and Technology
