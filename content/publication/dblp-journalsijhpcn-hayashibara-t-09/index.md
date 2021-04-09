@@ -5,7 +5,7 @@ title: Design of the notification system for failure detectors
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

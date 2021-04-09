@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tomoyuki Sueda
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

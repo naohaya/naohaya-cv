@@ -5,7 +5,7 @@ title: Design of a Notification System for the Accrual Failure Detector
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

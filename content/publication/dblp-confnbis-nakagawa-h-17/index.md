@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Takuro Nakagawa
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

@@ -5,7 +5,7 @@ title: The (Φ) Accrual Failure Detector
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Xavier Défago
 - Rami Yared
 - Takuya Katayama

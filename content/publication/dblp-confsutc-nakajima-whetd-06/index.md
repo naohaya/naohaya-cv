@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Yoshio Nakajima
 - Kenichi Watanabe
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 - S. Misbah Deen

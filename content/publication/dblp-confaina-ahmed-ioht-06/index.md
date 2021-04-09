@@ -9,7 +9,7 @@ authors:
 - Ashraf Uddin Ahmed
 - Satoshi Itaya
 - Keiji Ozaki
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

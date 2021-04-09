@@ -5,7 +5,7 @@ title: Towards Persistent Connections Using Failure Detectors
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2011-01-01'

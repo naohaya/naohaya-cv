@@ -8,7 +8,7 @@ authors:
 - Keiji Ozaki
 - Kenichi Watanabe
 - Satoshi Itaya
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 tags: []

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Koichiro Sugihara
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

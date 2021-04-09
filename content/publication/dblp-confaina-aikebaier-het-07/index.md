@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ailixier Aikebaier
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 tags: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hiroyuki Yoshino
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 tags: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tomoya Enokido
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

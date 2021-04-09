@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Kenichi Watanabe
 - Yoshio Nakajima
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 tags: []

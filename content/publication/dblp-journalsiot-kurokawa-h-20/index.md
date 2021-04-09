@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Takeru Kurokawa
-- Naohiro Hayashibara
+- admin
 tags: [bio-inspired, metaheuristics]
 categories: []
 date: '2020-01-01'

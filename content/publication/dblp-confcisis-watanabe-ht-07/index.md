@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kenichi Watanabe
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

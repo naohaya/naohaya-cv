@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Satoshi Itaya
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 - Tomoya Enokido
 tags: []

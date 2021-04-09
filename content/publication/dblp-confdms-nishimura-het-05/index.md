@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yasutaka Nishimura
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 tags: []

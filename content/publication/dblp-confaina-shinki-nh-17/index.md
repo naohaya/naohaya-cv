@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Kenya Shinki
 - Masahiko Nishida
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

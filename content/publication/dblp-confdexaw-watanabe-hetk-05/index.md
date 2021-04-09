@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kenichi Watanabe
-- Naohiro Hayashibara
+- admin
 - Tomoya Enokido
 - Makoto Takizawa
 - K. H. (Kane) Kim

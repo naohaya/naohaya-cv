@@ -5,7 +5,7 @@ title: Accrual Failure Detectors
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2004-06-30'

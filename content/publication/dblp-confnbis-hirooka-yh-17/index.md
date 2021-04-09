@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Takumu Hirooka
 - Daisuke Yamamasu
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

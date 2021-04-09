@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Xavier Défago
 - Péter Urbán
-- Naohiro Hayashibara
+- admin
 - Takuya Katayama
 tags: []
 categories: []

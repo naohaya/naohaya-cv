@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kengo Imae
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

@@ -5,7 +5,7 @@ title: Failure Detectors for Large-Scale Distributed Systems
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Adel Cherif
 - Takuya Katayama
 tags: []

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Kiyohiro Morita
 - Kenichi Watanabe
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

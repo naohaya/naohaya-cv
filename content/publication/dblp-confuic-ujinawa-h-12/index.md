@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Takeru Ujinawa
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2012-01-01'

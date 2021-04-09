@@ -5,7 +5,7 @@ title: Performance Analysis of the phi-Failure Detector with its Tunable Paramet
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

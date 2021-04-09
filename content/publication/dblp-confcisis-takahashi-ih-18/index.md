@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Tasuku Takahashi
 - Kengo Imae
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2018-01-01'

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yuta Yamamoto
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

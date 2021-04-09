@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Takumu Hirooka
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Keiji Ozaki
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

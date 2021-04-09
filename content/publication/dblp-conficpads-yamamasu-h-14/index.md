@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Daisuke Yamamasu
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2014-01-01'

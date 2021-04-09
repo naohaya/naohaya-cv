@@ -5,7 +5,7 @@ title: Performance Evaluation of the . Accrual Failure Detector
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

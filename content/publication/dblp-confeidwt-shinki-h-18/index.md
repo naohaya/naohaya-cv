@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kenya Shinki
-- Naohiro Hayashibara
+- admin
 tags: []
 categories: []
 date: '2018-01-01'

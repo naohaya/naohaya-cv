@@ -5,7 +5,7 @@ title: Information Propagation on the phi Failure Detector
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Xavier Défago
 - Makoto Takizawa
 - Takuya Katayama

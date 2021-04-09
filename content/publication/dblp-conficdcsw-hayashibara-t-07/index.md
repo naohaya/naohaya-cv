@@ -5,7 +5,7 @@ title: Performance Analysis of the Interrogation-based Failure Detector
 subtitle: ''
 summary: ''
 authors:
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 tags: []
 categories: []

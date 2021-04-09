@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Péter Urbán
-- Naohiro Hayashibara
+- admin
 - André Schiper
 - Takuya Katayama
 tags: []

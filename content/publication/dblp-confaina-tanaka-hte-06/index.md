@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Youhei Tanaka
-- Naohiro Hayashibara
+- admin
 - Makoto Takizawa
 - Tomoya Enokido
 tags: []
