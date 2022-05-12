@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Message Dissemination Using Nomadic Lévy Walk on Unit Disk Graphs
+title: Message Ferry Routing Based on Nomadic Lévy Walk in Wireless Sensor Networks
 subtitle: ''
 summary: ''
 authors:
 - Koichiro Sugihara
-- admin
+- Naohiro Hayashibara
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-04-08T22:12:24+09:00
+date: '2021-01-01'
+lastmod: 2022-05-12T10:25:58+09:00
 featured: false
 draft: false
 
@@ -28,17 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-08T13:12:24.541765Z'
+publishDate: '2022-05-12T01:25:58.516120Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Complex, Intelligent, and Software Intensive Systems - Proceedings
-  of the 13th International Conference on Complex, Intelligent, and Software Intensive
-  Systems, CISIS 2019, Sydney, NSW, Australia, 3-5 July 2019*'
-# url_pdf: https://doi.org/10.1007/978-3-030-22354-0_13
-doi: 10.1007/978-3-030-22354-0_13
+publication: '*Advanced Information Networking and Applications - Proceedings of the
+  35th International Conference on Advanced Information Networking and Applications
+  (AINA-2021), Toronto, ON, Canada, 12-14 May, 2021, Volume 1*'
+url_pdf: https://doi.org/10.1007/978-3-030-75100-5_38
+doi: 10.1007/978-3-030-75100-5_38
 ---
-
-{{% callout note %}}
-See [Errata](http://www.cc.kyoto-su.ac.jp/~naohaya/errata/errata-cisis-2019.html).
-{{% /callout %}}

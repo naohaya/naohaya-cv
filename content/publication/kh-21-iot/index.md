@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Message Dissemination Using Nomadic Lévy Walk on Unit Disk Graphs
+title: Content placement using Cuckoo search in Cloud-based Content delivery networks
 subtitle: ''
 summary: ''
 authors:
-- Koichiro Sugihara
-- admin
+- Takeru Kurokawa
+- Naohiro Hayashibara
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-04-08T22:12:24+09:00
+date: '2021-01-01'
+lastmod: 2022-05-12T10:25:58+09:00
 featured: false
 draft: false
 
@@ -28,17 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-08T13:12:24.541765Z'
+publishDate: '2022-05-12T01:25:55.610449Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Complex, Intelligent, and Software Intensive Systems - Proceedings
-  of the 13th International Conference on Complex, Intelligent, and Software Intensive
-  Systems, CISIS 2019, Sydney, NSW, Australia, 3-5 July 2019*'
-# url_pdf: https://doi.org/10.1007/978-3-030-22354-0_13
-doi: 10.1007/978-3-030-22354-0_13
+publication: '*Internet Things*'
+url_pdf: https://doi.org/10.1016/j.iot.2021.100430
+doi: 10.1016/j.iot.2021.100430
 ---
-
-{{% callout note %}}
-See [Errata](http://www.cc.kyoto-su.ac.jp/~naohaya/errata/errata-cisis-2019.html).
-{{% /callout %}}
